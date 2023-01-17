@@ -1,16 +1,13 @@
-# 0x04. C - More functions, more nested loops
+# 0x0E. C - Structures, Typedef
 ## Resources
 ### Read or watch:
-* [Nested while loops](https://m.youtube.com/watch?v=Z3iGeQ1gIss&t=8s)
-* [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
-* [Learning to Program in C (Part 06)](https://m.youtube.com/watch?v=qMlnFwYdqIw&t=2s)(_stop at 14:00_)
-* [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
-* [C - Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)(_stop before the "Once-Only Headers" paragraph_)
+* [0x0d. Structures.pdf](https://alx-intranet.hbtn.io/rltoken/giS4eNQT2BQ9RLK0PMhgJQ)
+* [struct (C programming language)](https://en.m.wikipedia.org/wiki/Struct_(C_programming_language))
+* [Documentation: structures](https://github.com/holbertonschool/Betty/wiki/Documentation:-Data-structures)
+* [0x0d. Typedef and structures.pdf](https://alx-intranet.hbtn.io/rltoken/TGQ3RopVP7CjUTzF-XDXUw)
+* [typedef](https://publications.gbdirect.co.uk//c_book/chapter8/typedef.html)
+* **Programming in C** by Stephen Kochan - _Chapter 8, Working with Structures p163-189_
+* [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (_Advanced - not mandatory_)
 ## General
-* What are nested loops and how to use them
-* What is a function and how do you use functions
-* What is the difference between a declaration and a definition of a function
-* What is a prototype
-* Scope of variables
-* What are the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89`
-* What are header files and how to to use them with `#include`
+* What are structures, when, why and how to use them
+* How to use `typedef`
